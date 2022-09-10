@@ -1,0 +1,11 @@
+AIOC01_Chapter1.1 ความรู้เบื้องต้นเกี่ยวกับ AI
+- https://youtu.be/H5IJB14hXNw
+
+AIOC01_Chapter1.2 ตัวอย่างการประยุกต์ใช้งาน AI
+- https://youtu.be/wT8aqxqeuDM
+
+AIOC01_Chapter1.3 Responsible and Ethical AI
+- https://youtu.be/OzxEZA_iUbs
+
+AIOC01_Chapter1.4 Cloud Computing and AI on Cloud
+- https://youtu.be/DiV37UjoMe0
