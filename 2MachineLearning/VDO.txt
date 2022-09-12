@@ -1,0 +1,26 @@
+AIOC02_Chapter2.1 แนะนำการเรียนรู้ของเครื่อง (Machine Learning)
+- https://youtu.be/2kzUmBz2x00
+
+AIOC02_Chapter2.2 รูปแบบจำลองจากการเรียนรู้ของเครื่อง (Machine Learning Models)
+- https://youtu.be/aY4fYKbTuxM
+
+AIOC02_Chapter2.3 ขั้นตอนการสร้างแบบจำลองจากการเรียนรู้ของเครื่องจักร (Process)
+- https://youtu.be/3fp6sX2OaJ8
+
+AIOC02_Chapter2.4 อัลกอริทึม (Algorithms)
+- https://youtu.be/Y6OFdAMIftA
+
+AIOC02_Chapter2.5 การถดถอย (Regression)
+- https://youtu.be/mCHCXEgP86Y
+
+AIOC02_Chapter2.6 การจำแนกประเภท (Classification)
+- https://youtu.be/ocbeuK3FZHY
+
+AIOC02_Chapter2.7 การจัดกลุ่ม (Clustering)
+- https://youtu.be/EVKB8bvfQqw
+
+AIOC02_Chapter2.8 การลดจำนวนมิติเพื่อบีบอัดข้อมูล (Dimensionality Reduction)
+- https://youtu.be/SlR8X9DoUTo
+
+AIOC02_Chapter2.9 โครงข่ายประสาทเทียม (Neural Network)
+- https://youtu.be/_6g3FVNhfDw
