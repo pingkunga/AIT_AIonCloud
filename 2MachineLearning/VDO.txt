@@ -24,3 +24,8 @@ AIOC02_Chapter2.8 การลดจำนวนมิติเพื่อบ�
 
 AIOC02_Chapter2.9 โครงข่ายประสาทเทียม (Neural Network)
 - https://youtu.be/_6g3FVNhfDw
+
+Lab 1 : ทำความรู้จัก Azure Machine Learning และ Automated ML
+- https://youtu.be/0TaL_dGlwb8
+Lab 2 : สร้าง Regression Model ด้วย Azure Machine Learning Designer
+- https://youtu.be/TB4k0_KbZ94
