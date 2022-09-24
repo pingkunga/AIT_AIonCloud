@@ -29,3 +29,6 @@ Lab 1 : ทำความรู้จัก Azure Machine Learning และ Au
 - https://youtu.be/0TaL_dGlwb8
 Lab 2 : สร้าง Regression Model ด้วย Azure Machine Learning Designer
 - https://youtu.be/TB4k0_KbZ94
+Lab 3 : สร้าง Classification Model ด้วย Azure Machine Learning Designer
+- https://youtu.be/750QSItPuz4
+Lab 4 : สร้าง clustering model ด้วย Azure Machine Learning Designer
