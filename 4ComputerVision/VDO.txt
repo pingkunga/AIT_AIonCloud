@@ -1,0 +1,5 @@
+AIOC03_Chapter3.1 การจัดกลุ่มภาพออกเป็นหมวดหมู่ต่าง ๆ (Image Classification)
+- https://youtu.be/SGWpZdvCrVg
+
+AIOC03_Chapter3.2 การตรวจหาวัตถุแบบเฉพาะเจาะจง (Object Detection)
+- 
