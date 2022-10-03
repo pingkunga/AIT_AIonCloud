@@ -3,3 +3,14 @@ AIOC03_Chapter3.1 การจัดกลุ่มภาพออกเป็�
 
 AIOC03_Chapter3.2 การตรวจหาวัตถุแบบเฉพาะเจาะจง (Object Detection)
 - https://youtu.be/ntBp4vzUdp0
+
+AIOC03_Chapter3.3 การจดจำใบหน้า (Face Detection)
+- https://youtu.be/NgegV8wJxi0
+
+AIOC03_Chapter3.4 การรู้จำอักขระด้วยแสง (Optical Character Recognition)
+- https://youtu.be/kDm9eplu1MI
+
+Lab 1 : แนะนำ Computer Vision Services บน Azure และสร้าง Image Analysis
+- https://youtu.be/IJAwXCQjUfg
+Lab 2 : สร้าง Image Classification Model โดยใช้ Custom Vision
+- https://youtu.be/DtzDb51DZF0
