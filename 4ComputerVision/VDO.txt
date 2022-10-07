@@ -14,3 +14,11 @@ Lab 1 : แนะนำ Computer Vision Services บน Azure และสร้
 - https://youtu.be/IJAwXCQjUfg
 Lab 2 : สร้าง Image Classification Model โดยใช้ Custom Vision
 - https://youtu.be/DtzDb51DZF0
+Lab 3 : Object detection
+- https://youtu.be/pAjpgCFj7HA
+Lab 4 : Face detection
+- https://youtu.be/QEydG7tyZqw
+Lab 5 : Optical character recognition (OCR)
+- https://youtu.be/S0vlcX2HRi0
+Lab 6 : Receipt Analysis (อ่านข้อความจากใบเสร็จรับเงิน)
+- https://youtu.be/r82LYUj1Ers
