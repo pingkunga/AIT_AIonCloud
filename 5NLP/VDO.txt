@@ -1,0 +1,26 @@
+AIOC04_Chapter4.1 การรู้จำเสียงพูด (Speech Recognition) เพื่อการแปลเสียงพูดเป็นคำ ข้อความหรือประโยค
+- https://youtu.be/Eg-GHI3jdZU
+
+AIOC04_Chapter4.2 การแปลจากภาษาหนึ่งไปยังอีกภาษาหนึ่ง (Language Translation)
+- https://youtu.be/7ODqQC--Ao0
+
+AIOC04_Chapter4.3 การวิเคราะห์อารมณ์และความรู้สึกจากข้อความ (Sentiment Analysis)
+- https://youtu.be/tq7Xl_poaIA
+
+AIOC04_Chapter4.4 การสกัดนิพจน์เฉพาะหรือชื่อเฉพาะในประโยค(Entity Extraction)
+- https://youtu.be/BHZpNoICvNA
+
+AIOC04_Chapter4.5 การสรุปข้อความ (Text Summarization)
+- https://youtu.be/2vq80hIoG_U
+
+Lab1: Text Analysis and Sentiment Analysis
+- 
+
+Lab 2 : Speech Recognition and Speech Synthesis
+- 
+
+Lab 3 : Translate text and speech
+- 
+
+Lab 4 : Language model with Conversational Language Understanding
+- 
