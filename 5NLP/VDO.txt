@@ -14,13 +14,13 @@ AIOC04_Chapter4.5 การสรุปข้อความ (Text Summarization
 - https://youtu.be/2vq80hIoG_U
 
 Lab1: Text Analysis and Sentiment Analysis
-- 
+- https://youtu.be/T520i9OwJ5Q
 
 Lab 2 : Speech Recognition and Speech Synthesis
-- 
+- https://youtu.be/3-5bagckj_8
 
 Lab 3 : Translate text and speech
-- 
+- https://youtu.be/kn1D51jF8sk
 
 Lab 4 : Language model with Conversational Language Understanding
-- 
+- https://youtu.be/0zrgik7YN9M
