@@ -1,0 +1,4 @@
+AIOC05_Chapter5.1 
+- https://youtu.be/N0oXwHFsiqw
+
+Lab 1 : Build a bot with the Language Service and Azure Bot Service
