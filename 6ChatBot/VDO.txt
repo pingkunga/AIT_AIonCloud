@@ -2,3 +2,6 @@ AIOC05_Chapter5.1
 - https://youtu.be/N0oXwHFsiqw
 
 Lab 1 : Build a bot with the Language Service and Azure Bot Service
+- https://youtu.be/6YR_tnXcMFQ
+- Resource https://raw.githubusercontent.com/MicrosoftLearning/AI-900-AIFundamentals/main/data/qna/margies_faq.docx
+- NOTE: ถ้าสร้าง bot ด้วย free plan จะติดปัญหา เรื่องการ register microsoft.web ถ้าใครเจอปัญหาแบบเดียวกัน แนะนำไป search "Subscriptions" แล้วก็เลือก subscription หลังจากนั้นไปที่เมนูเลือก Resource providers แล้วก็ search "Microsoft.Web" แล้วก็กด Register ด้านบน
